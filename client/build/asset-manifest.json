@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cc043a1.css",
-    "main.js": "/static/js/main.f6318f72.js",
+    "main.css": "/static/css/main.4cbb684b.css",
+    "main.js": "/static/js/main.fb971b4e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/bankingImage.jpg": "/static/media/bankingImage.0616ded7fcc5f33e7b8d.jpg",
     "static/media/RBIimage.png": "/static/media/RBIimage.65123499d4317d71385e.png",
     "index.html": "/index.html",
-    "main.5cc043a1.css.map": "/static/css/main.5cc043a1.css.map",
-    "main.f6318f72.js.map": "/static/js/main.f6318f72.js.map",
+    "main.4cbb684b.css.map": "/static/css/main.4cbb684b.css.map",
+    "main.fb971b4e.js.map": "/static/js/main.fb971b4e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc043a1.css",
-    "static/js/main.f6318f72.js"
+    "static/css/main.4cbb684b.css",
+    "static/js/main.fb971b4e.js"
   ]
 }
